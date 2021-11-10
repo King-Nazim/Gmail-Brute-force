@@ -10,4 +10,4 @@ Gmail Brute-Force Software Written In Python
 
 #### Usage
 
-* `python toolkit.py`
+* `python main.py`
